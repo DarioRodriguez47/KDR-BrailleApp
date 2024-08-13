@@ -3,33 +3,33 @@ Reporte de Cambios - Proyecto KDR Tech
 a. Cantidad de Cambios vs Acción (Aprobado, Rechazado, Pendiente)
 
  	* Aprobado: 6
- 	* Rechazado: 1
-	* Pendiente: 3
+ 	* Rechazado: 0
+	* Pendiente: 4
 
-		Aprobado | ███████████████████████ (7)
+		Aprobado | ████████████████ (7)
 		Rechazado| 
-		Pendiente| 
+		Pendiente| ███████ (4)
 
 
 
 b. Cantidad de Cambios vs Clasificación
 
- 	* Funcional: 6
+ 	* Funcional: 7
  	* Estético: 1
- 	* No Funcional: 3
+ 	* No Funcional: 2
 
-		Funcional   | ██████████████████████████████████████ (7)
+		Funcional   | ████████████████████ (7)
 		Estético    | █████ (1)
 		No Funcional| ██████ (2)
 
 c. Cantidad de Cambios vs Prioridad
 
- 	* Alta: 3
+ 	* Alta: 4
  	* Media: 4
  	* Baja: 3
 
-		Alta  | ███████████████ (3)
-		Media | █████████████████████ (5)
-		Baja  | ███████ (2)
+		Alta  | ███████████████████ (4)
+		Media | ███████████████████ (4)
+		Baja  | ██████████ (3)
 	
 
