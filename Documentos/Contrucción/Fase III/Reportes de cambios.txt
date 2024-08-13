@@ -24,12 +24,12 @@ b. Cantidad de Cambios vs Clasificación
 
 c. Cantidad de Cambios vs Prioridad
 
- 	* Alta: 4
+ 	* Alta: 3
  	* Media: 4
  	* Baja: 3
 
-		Alta  | ███████████████████ (4)
-		Media | ███████████████████ (4)
+		Alta  | ██████████ (3)
+		Media | ████████████████ (4)
 		Baja  | ██████████ (3)
 	
 
